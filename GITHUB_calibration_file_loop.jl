@@ -1,3 +1,4 @@
+#Written in collaboration with C. Brenhin Keller Ph.D. and Jaya Sharma '26, from the Department of Earth Sciences at Dartmouth College
 cd(@__DIR__)
 
 using JSON3, StatGeochemBase, Isoplot, Measurements
